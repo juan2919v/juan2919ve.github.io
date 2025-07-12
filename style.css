@@ -1,4 +1,4 @@
-/* Variables CSS */
+ @import "{{ site.theme }}";
         :root {
             --azul-principal: #2d3e50;
             --azul-secundario: #4a6572;
