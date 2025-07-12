@@ -1,4 +1,4 @@
-/* Variables CSS */@import "{{ site.theme }}";
+ @import "{{ site.theme }}";
         :root {
             --azul-principal: #2d3e50;
             --azul-secundario: #4a6572;
@@ -10,7 +10,7 @@
             --brillo: #e0e6ed;
         }
 
-        /* Estilos Generales */
+      
         html {
             scroll-behavior: smooth;
         }
